@@ -1,4 +1,4 @@
-package api
+package main
 
 import (
 	"go-url-shortener/internal/server"
